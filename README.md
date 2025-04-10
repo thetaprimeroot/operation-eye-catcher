@@ -77,6 +77,7 @@ operation-eye-catcher/
 ├── README.md
 ├── /exploit_demo/
 │   ├── langchain_leak_sim.py
+│   ├── label_logs.ipynb 
 │   ├── prompt_injection_chain.txt
 │   ├── simulated_logs.json
 │   └── attack_flow_diagram.png
