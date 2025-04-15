@@ -1,0 +1,6 @@
+user_id,token_id,timestamp,endpoint,status_code,cluster,is_suspicious
+user_001,token_ABC123,2025-04-10T14:25:36Z,/calendar/view,200,0,0
+user_001,token_ABC123,2025-04-10T14:26:41Z,/github/commit,200,0,0
+user_002,token_DEF456,2025-04-10T15:01:05Z,/jira/issue/create,200,0,0
+user_002,token_DEF456,2025-04-10T15:05:55Z,/admin/reset,403,1,1
+user_003,token_XYZ999,2025-04-10T15:09:32Z,/internal/github/access,200,0,0

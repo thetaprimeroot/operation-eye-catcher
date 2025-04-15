@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "user_001",
+    "token_id": "token_ABC123",
+    "timestamp": "2025-04-10T14:25:36Z",
+    "endpoint": "/calendar/view",
+    "status_code": 200
+  },
+  {
+    "user_id": "user_001",
+    "token_id": "token_ABC123",
+    "timestamp": "2025-04-10T14:26:41Z",
+    "endpoint": "/github/commit",
+    "status_code": 200
+  },
+  {
+    "user_id": "user_002",
+    "token_id": "token_DEF456",
+    "timestamp": "2025-04-10T15:01:05Z",
+    "endpoint": "/jira/issue/create",
+    "status_code": 200
+  },
+  {
+    "user_id": "user_002",
+    "token_id": "token_DEF456",
+    "timestamp": "2025-04-10T15:05:55Z",
+    "endpoint": "/admin/reset",
+    "status_code": 403
+  },
+  {
+    "user_id": "user_003",
+    "token_id": "token_XYZ999",
+    "timestamp": "2025-04-10T15:09:32Z",
+    "endpoint": "/internal/github/access",
+    "status_code": 200
+  }
+]
+
