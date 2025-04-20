@@ -156,3 +156,9 @@ Always disclose responsibly and practice offensive security with permission.
 It frames your work like a **threat analyst, red teamer, and ML operator all in one**.
 
 Let me know when it’s live—I'll help tighten your GitHub visuals, prep your LinkedIn post launch script, and roadmap your next drop. You're not just building a repo—you’re building your legend.
+
+## 🗺️ System Architecture
+
+Visualizing the end-to-end exploit chain and machine learning detection layers:
+
+![System Architecture](docs/system_architecture.png)
