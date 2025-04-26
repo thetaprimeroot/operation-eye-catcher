@@ -3,7 +3,7 @@
 
 ### Privilege Escalation and Token Abuse in AI-Integrated Infrastructure  
 *A Red Team Simulation + Machine Learning Defense System*  
-**Built by 0laju1 | Theta Prime LLC**
+**Built by Trevor Brown | Theta Prime LLC**
 
 ---
 
